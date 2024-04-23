@@ -14,7 +14,7 @@ Student Number: C22365356
 # Description of the assignment
 -hey hey hey
 
-# Instructions
+# Code Correspondence with Music
 
 # How it works
 
