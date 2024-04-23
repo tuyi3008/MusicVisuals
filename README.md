@@ -20,6 +20,9 @@ Student Number: C22365356
 
 # What I am most proud of in the assignment
 
+What I am most proud of in the assignment is the seamless integration of visual elements with the dynamics and mood of the chosen song. I take pride in how the visuals effectively capture the essence of the music, conveying its energy, tension, and excitement to the audience. Additionally, I am proud of the technical proficiency demonstrated in implementing audio-responsive features, such as adjusting the size and color of shapes based on the song's rhythm and emotion. This not only showcases my creativity but also highlights my ability to translate auditory experiences into captivating visual narratives. 
+
+
 # Markdown Tutorial
 
 This is *emphasis*
