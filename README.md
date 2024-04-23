@@ -15,6 +15,8 @@ Student Number: C22365356
 
 # Visualization Process
 
+I aimed to represent the rhythm and emotion of the song through dynamic elements and rapidly changing colors in the visuals. I used fast animation effects and vibrant colors to express the energy and tension of the song. Through dynamic shapes and flickering effects, I sought to create a tense and exhilarating atmosphere, allowing the audience to feel the intense rhythm and dynamism of the song.
+
 # Code Correspondence with Music
 
 My code corresponds to the rhythm and emotion of the song through dynamic shapes, fast animation effects, and vibrant colors. For instance, I used the map() function to adjust the size of the images based on the song's rhythm, making them change with the music. I also employed color mapping to adjust the colors of the images according to the song's emotion, enhancing the visual experience. Overall, my design aims to align with the atmosphere and emotion of the song, creating a visually dynamic and tension-filled effect.
