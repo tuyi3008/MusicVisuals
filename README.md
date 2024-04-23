@@ -16,6 +16,9 @@ Student Number: C22365356
 
 # Code Correspondence with Music
 
+My code corresponds to the rhythm and emotion of the song through dynamic shapes, fast animation effects, and vibrant colors. For instance, I used the map() function to adjust the size of the images based on the song's rhythm, making them change with the music. I also employed color mapping to adjust the colors of the images according to the song's emotion, enhancing the visual experience. Overall, my design aims to align with the atmosphere and emotion of the song, creating a visually dynamic and tension-filled effect.
+
+
 # How it works
 
 # What I am most proud of in the assignment
