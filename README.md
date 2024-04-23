@@ -19,6 +19,8 @@ I selected the track "HeroPlant" for its strong rhythmic qualities and engaging 
 
 # Emotion and Structure of the Song
 
+"HeroPlant" evokes a sense of excitement, vigor, and momentum. The driving rhythm and vibrant instrumentation create an atmosphere charged with adrenaline, reminiscent of embarking on an adventurous journey. Structurally, the song maintains a brisk pace, with alternating musical motifs that contribute to its dynamic nature.
+
 # Visualization Process
 
 I aimed to represent the rhythm and emotion of the song through dynamic elements and rapidly changing colors in the visuals. I used fast animation effects and vibrant colors to express the energy and tension of the song. Through dynamic shapes and flickering effects, I sought to create a tense and exhilarating atmosphere, allowing the audience to feel the intense rhythm and dynamism of the song.
