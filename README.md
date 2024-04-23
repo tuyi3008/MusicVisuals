@@ -78,7 +78,7 @@ This is an image using an absolute URL:
 This is a youtube video:
 
 [![YouTube](https://github.com/tuyi3008/MusicVisuals/assets/73605412/d2ffb65f-179c-4c6e-9f1a-f3da163496ca)
-)](https://youtu.be/wQS0hrj-QjA)
+](https://youtu.be/wQS0hrj-QjA)
 
 This is a table:
 
