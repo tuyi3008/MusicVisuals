@@ -75,7 +75,6 @@ This is an image using an absolute URL:
 ![A different image](https://bryanduggandotorg.files.wordpress.com/2019/02/infinite-forms-00045.png?w=595&h=&zoom=2)
 
 This is a youtube video:
-https://youtu.be/wQS0hrj-QjA
 
 [![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://youtu.be/wQS0hrj-QjA)
 
