@@ -13,6 +13,8 @@ Student Number: C22365356
 
 # Description of the assignment
 
+# Song Choice Reason
+
 # Visualization Process
 
 I aimed to represent the rhythm and emotion of the song through dynamic elements and rapidly changing colors in the visuals. I used fast animation effects and vibrant colors to express the energy and tension of the song. Through dynamic shapes and flickering effects, I sought to create a tense and exhilarating atmosphere, allowing the audience to feel the intense rhythm and dynamism of the song.
