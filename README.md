@@ -10,8 +10,6 @@ Student Number: C22365356
 
 # Song Choice Reason
 
-I selected the track "HeroPlant" for its strong rhythmic qualities and engaging beats. This song resonates with me due to its dynamic rhythm, characterized by lively percussion and pulsating melodies. I believe that such energetic music is ideal for generating visually captivating experiences.
-
 # Emotion and Structure of the Song
 
 "HeroPlant" evokes a sense of excitement, vigor, and momentum. The driving rhythm and vibrant instrumentation create an atmosphere charged with adrenaline, reminiscent of embarking on an adventurous journey. Structurally, the song maintains a brisk pace, with alternating musical motifs that contribute to its dynamic nature.
