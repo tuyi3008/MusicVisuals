@@ -16,6 +16,19 @@ Join us on a journey through the realms of sound and vision as we delve into the
 
 # Description of the assignment
 
+The assignment entails the development of a music visualization program using Java and the Processing library. The program is designed to visualize audio input in real-time, providing an engaging and dynamic display that reflects the characteristics of the music being played.
+
+The core functionality of the program involves processing audio data from an input file (in this case, "heroplanet.mp3") using the Minim library. This includes loading the audio file, analyzing its frequency spectrum using Fast Fourier Transform (FFT), and extracting relevant data for visualization.
+
+The visualization is implemented using various graphical elements, including circles, bars, and dynamic geometry. Each visualization mode offers a unique representation of the music, with visual elements reacting to different aspects of the audio signal, such as amplitude, frequency, and rhythm.
+
+Circles Mode: Colorful circles dynamically move across the screen, changing in size and position based on the music's rhythm and intensity. The color and motion of the circles are synchronized with the audio spectrum, providing a visually captivating representation of the music.
+Bars Mode: Horizontal bars are displayed on the screen, with their heights fluctuating in response to the audio spectrum. Each bar represents a specific frequency band, and its height corresponds to the magnitude of that frequency component in the music. The bars move horizontally across the screen, creating a dynamic visual effect that reflects the changing audio signal.
+Dynamic Geometry Mode: Triangles are dynamically generated and displayed on the screen, with their size, color, and position determined by the music's frequency spectrum. As the music plays, the triangles change in size and color, creating an abstract and visually stimulating display that evolves in real-time.
+The program also includes user interaction features, allowing users to switch between visualization modes using keyboard input. By pressing different keys ('1' for circles, '2' for bars, '3' for dynamic geometry), users can explore and interact with the various visualization modes, experiencing the music in a visually immersive way.
+
+Overall, the assignment aims to showcase the creative potential of audio visualization techniques, providing students with an opportunity to apply their programming skills to create an engaging and interactive music visualization program.
+
 # Song Choice Reason
 
 I selected the track "It's in the Stories That We Say" for its strong rhythmic qualities and engaging beats. This song resonates with me due to its dynamic rhythm, characterized by lively percussion and pulsating melodies. I believe that such energetic music is ideal for generating visually captivating experiences.
