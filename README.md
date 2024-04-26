@@ -100,7 +100,17 @@ This is an image using an absolute URL:
 
 ![A different image]![Screenshot 2024-04-26 024054](https://github.com/tuyi3008/MusicVisuals/assets/73605412/3ae8339d-8479-4345-8a6a-dcfe91359ab0)
 
+# Here are the mode 2 images
 
+![A different image](![Screenshot 2024-04-26 023425](https://github.com/tuyi3008/MusicVisuals/assets/73605412/2b6093f7-3386-4dfd-9dc7-138e08cd3737)
+)
+
+![A different image]![Screenshot 2024-04-26 023739](https://github.com/tuyi3008/MusicVisuals/assets/73605412/f74ae48f-4d96-42ef-8258-315d371a35b1)
+
+
+![A different image]![Screenshot 2024-04-26 024027](https://github.com/tuyi3008/MusicVisuals/assets/73605412/367bd9fe-9a49-4eb3-8643-08bc356bfb89)
+
+![A different image]![Screenshot 2024-04-26 024054](https://github.com/tuyi3008/MusicVisuals/assets/73605412/3ae8339d-8479-4345-8a6a-dcfe91359ab0)
 
 This is a youtube video:
 
