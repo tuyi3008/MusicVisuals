@@ -66,14 +66,31 @@ This is a [hyperlink](http://bryanduggan.org)
 This is code:
 
 ```Java
-public void render()
-{
-	ui.noFill();
-	ui.stroke(255);
-	ui.rect(x, y, width, height);
-	ui.textAlign(PApplet.CENTER, PApplet.CENTER);
-	ui.text(text, x + width * 0.5f, y + height * 0.5f);
-}
+if (showCircles) {
+            // Draw colorful shapes based on music
+            for (int i = 0; i < numCircles; i++) {
+                float x = width / 2 + cos(angles[i]) * distances[i];
+                float y = height / 2 + sin(angles[i]) * distances[i];
+                float size = fft.getBand(i % numCircles) * 10;
+
+                // Adjust the size of shapes according to the rhythm of the music
+                size *= map(sin(frameCount * 0.1f), -1, 1, 0.4f, 0.7f);
+
+                // Adjust shape color to match the emotion of the music
+                float hue = map(fft.getBand(i % numCircles), 0, 255, 0, 360);
+                float saturation = 100;
+                fill(hue, saturation, brightness);
+
+                noStroke();
+                ellipse(x, y, size, size);
+
+                angles[i] += speeds[i];
+                if (distances[i] > maxDistance || distances[i] < 0) {
+                    speeds[i] *= -1;
+                }
+                distances[i] += speeds[i] * 10;
+            }
+        }
 ```
 
 So is this without specifying the language:
