@@ -18,6 +18,8 @@ Join us on a journey through the realms of sound and vision as we delve into the
 
 # Song Choice Reason
 
+I selected the track "It's in the Stories That We Say" for its strong rhythmic qualities and engaging beats. This song resonates with me due to its dynamic rhythm, characterized by lively percussion and pulsating melodies. I believe that such energetic music is ideal for generating visually captivating experiences.
+
 # Emotion and Structure of the Song
 
 "It's in the Stories That We Say" evokes a sense of excitement, vigor, and momentum. The driving rhythm and vibrant instrumentation create an atmosphere charged with adrenaline, reminiscent of embarking on an adventurous journey. Structurally, the song maintains a brisk pace, with alternating musical motifs that contribute to its dynamic nature.
