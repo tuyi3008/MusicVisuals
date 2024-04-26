@@ -93,6 +93,29 @@ if (showCircles) {
         }
 ```
 
+
+This is the visual 2(drawBars) code:
+
+```
+public void drawBars() {
+        for (int i = 0; i < numBars; i++) {
+            float barWidth = width / numBars;
+            float x = i * barWidth;
+            float barHeight = fft.getBand(i % numBars) * 10;
+            barWidths[i] = barWidth + fft.getBand(i % numBars); // Increase bar width based on amplitude
+            fill(barColors[i]); // Use random color for each bar
+            rect(x, height - barHeights[i], barWidths[i], barHeight);
+            barHeights[i] += barSpeeds[i]; // Increase bar height according to its speed
+            if (barHeights[i] > height) { // Reset bar height when it reaches the bottom
+                barHeights[i] = 0;
+            }
+        }
+    }
+
+
+```
+
+
 This is the visual 3(showGeometry) code:
 
 ```
@@ -141,24 +164,6 @@ public void showGeometry() {
 
 ```
 
-
-public void drawBars() {
-        for (int i = 0; i < numBars; i++) {
-            float barWidth = width / numBars;
-            float x = i * barWidth;
-            float barHeight = fft.getBand(i % numBars) * 10;
-            barWidths[i] = barWidth + fft.getBand(i % numBars); // Increase bar width based on amplitude
-            fill(barColors[i]); // Use random color for each bar
-            rect(x, height - barHeights[i], barWidths[i], barHeight);
-            barHeights[i] += barSpeeds[i]; // Increase bar height according to its speed
-            if (barHeights[i] > height) { // Reset bar height when it reaches the bottom
-                barHeights[i] = 0;
-            }
-        }
-    }
-
-
-```
 This is an image using a relative URL:
 
 ![An image](images/p8.png)
