@@ -139,6 +139,8 @@ public void showGeometry() {
             triangle(x1, y1, x2, y2, x3, y3);
         }
 
+```
+
 
 public void drawBars() {
         for (int i = 0; i < numBars; i++) {
