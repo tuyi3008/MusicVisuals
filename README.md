@@ -195,7 +195,7 @@ This is an image using a relative URL:
 
 This is an image using an absolute URL:
 
-# Here are the mode 1 images
+# Here are the visual 1 images
 
 ![A different image]![Screenshot 2024-04-26 022821](https://github.com/tuyi3008/MusicVisuals/assets/73605412/a5f2973c-81b0-444c-8f76-c1d56bb0f6a5)
 
@@ -224,7 +224,7 @@ This is an image using an absolute URL:
 
 
 
-# Here are the mode 2 images
+# Here are the visual 2 images
 
 ![A different image]![Screenshot 2024-04-26 023302](https://github.com/tuyi3008/MusicVisuals/assets/73605412/7cc0c890-6d0d-42fb-b05e-b1a762da465a)
 
@@ -232,7 +232,7 @@ This is an image using an absolute URL:
 ![A different image]![Screenshot 2024-04-26 023231](https://github.com/tuyi3008/MusicVisuals/assets/73605412/40ce29b6-5e88-4cce-bb96-c9fe28b1765b)
 
 
-# Here are the mode 3 images
+# Here are the visual 3 images
 
 
 ![A different image](![Screenshot 2024-04-26 023320](https://github.com/tuyi3008/MusicVisuals/assets/73605412/f5d4dbf9-bb88-415b-b485-166e2cc48751)
