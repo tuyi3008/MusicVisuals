@@ -164,6 +164,31 @@ public void showGeometry() {
 
 ```
 
+
+This is the code to switch between them:
+
+```
+public void keyPressed() {
+        if (key == '1') {
+            showCircles = true;
+            showBars = false;
+            showGeometry = false;
+        } else if (key == '2') {
+            showCircles = false;
+            showBars = true;
+            showGeometry = false;
+        } else if (key == '3') {
+            showCircles = false;
+            showBars = false;
+            showGeometry = true;
+        }
+    }
+
+
+
+
+
+```
 This is an image using a relative URL:
 
 ![An image](images/p8.png)
