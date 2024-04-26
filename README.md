@@ -26,7 +26,15 @@ I selected the track "It's in the Stories That We Say" for its strong rhythmic q
 
 # Visualization Process
 
-I aimed to represent the rhythm and emotion of the song through dynamic elements and rapidly changing colors in the visuals. I used fast animation effects and vibrant colors to express the energy and tension of the song. Through dynamic shapes and flickering effects, I sought to create a tense and exhilarating atmosphere, allowing the audience to feel the intense rhythm and dynamism of the song.
+
+The visualization process in the music visualization program involves transforming audio input into dynamic graphical representations that reflect different aspects of the music. This process consists of several key steps, including audio analysis, data processing, and graphical rendering.
+
+Audio Analysis: The visualization process begins with the analysis of the audio input using the Fast Fourier Transform (FFT) algorithm. This algorithm decomposes the audio signal into its frequency components, revealing the distribution of energy across different frequency bands. The result is a frequency spectrum that represents the amplitude of each frequency band in the audio signal.
+Data Processing: Once the frequency spectrum is obtained, the program processes this data to extract relevant information for visualization. Depending on the chosen visualization mode (circles, bars, or dynamic geometry), different parameters are derived from the frequency spectrum to control the behavior and appearance of graphical elements.
+Graphical Rendering: With the processed data in hand, the program renders graphical elements on the screen to visualize the music. In the circles mode, colorful circles are dynamically positioned and resized based on the amplitude of frequency bands. In the bars mode, horizontal bars move across the screen, with their heights fluctuating in response to the audio spectrum. In the dynamic geometry mode, triangles are dynamically generated and displayed, with their size, color, and position determined by the frequency spectrum.
+Dynamic Updates: Throughout the visualization process, the program continuously updates the graphical elements in real-time to synchronize them with the changing audio signal. This ensures that the visualization remains responsive and engaging, capturing the nuances of the music as it plays.
+User Interaction: The visualization process also includes user interaction features, allowing users to switch between different visualization modes using keyboard input. This enables users to explore and interact with the visualization, customizing their experience based on personal preferences and musical taste.
+Overall, the visualization process transforms audio input into visually captivating displays that enhance the listening experience, offering users a dynamic and immersive way to engage with music.
 
 # Code Correspondence with Music
 
