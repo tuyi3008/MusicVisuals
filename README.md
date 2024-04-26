@@ -5,11 +5,14 @@ Name: Yi Tu
 Student Number: C22365356
 
 ## Instructions
-- Fork this repository and use it a starter project for your assignment
-- Create a new package named your student number and put all your code in this package.
-- You should start by creating a subclass of ie.tudublin.Visual
-- There is an example visualiser called MyVisual in the example package
-- Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
+
+Music has the remarkable ability to evoke emotions, spark creativity, and transport listeners to different realms of experience. While the auditory experience of music is undoubtedly powerful, the addition of visual elements through music visualization can further enrich the listening experience by providing a multi-sensory journey into the world of sound.
+
+In this report, we explore a music visualization program developed using the Processing programming language. This program offers a dynamic and interactive visualization of audio spectrum data in real-time, allowing users to observe and interact with the underlying rhythm and structure of the music they are listening to.
+
+Through the combination of audio synthesis and analysis techniques provided by the Minim library, as well as the visual rendering capabilities of Processing, our program transforms audio signals into vibrant visual displays. Users can choose from various visualization modes, including bars, circles, and dynamic geometry, each offering a unique perspective on the music.
+
+Join us on a journey through the realms of sound and vision as we delve into the workings of this music visualization program and explore its potential to enhance the listening experience through immersive visualizations of music.
 
 # Description of the assignment
 
