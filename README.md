@@ -61,26 +61,7 @@ The code corresponds with the music by analyzing its audio spectrum in real-time
 What I am most proud of in this assignment is the synchronization between the visual elements and the music. Achieving this required a deep understanding of signal processing techniques, particularly the FFT algorithm, and creative programming to translate the audio data into visually engaging shapes and colors. I am proud of how the visualizations respond dynamically to changes in the music, capturing the essence of the sound and enhancing the overall listening experience. Additionally, I am pleased with the versatility of the program, allowing users to switch between different visualization modes seamlessly, adding to the interactivity and enjoyment of the application. Overall, I take pride in the combination of technical skill and creativity that went into creating a visually stunning and synchronized music visualization experience.
 
 
-# Markdown Tutorial
-
-This is *emphasis*
-
-This is a bulleted list
-
-- Item
-- Item
-
-This is a numbered list
-
-1. Item
-1. Item
-
 This is a [hyperlink](http://bryanduggan.org)
-
-# Headings
-## Headings
-#### Headings
-##### Headings
 
 This is code:
 
