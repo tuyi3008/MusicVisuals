@@ -102,8 +102,8 @@ This is an image using an absolute URL:
 
 # Here are the mode 2 images
 
-![A different image](![Screenshot 2024-04-26 023425](https://github.com/tuyi3008/MusicVisuals/assets/73605412/2b6093f7-3386-4dfd-9dc7-138e08cd3737)
-)
+![A different image]![Screenshot 2024-04-26 023302](https://github.com/tuyi3008/MusicVisuals/assets/73605412/7cc0c890-6d0d-42fb-b05e-b1a762da465a)
+
 
 ![A different image]![Screenshot 2024-04-26 023739](https://github.com/tuyi3008/MusicVisuals/assets/73605412/f74ae48f-4d96-42ef-8258-315d371a35b1)
 
