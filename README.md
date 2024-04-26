@@ -138,7 +138,7 @@ public void showGeometry() {
             // Draw triangle
             triangle(x1, y1, x2, y2, x3, y3);
         }
-```
+
 
 public void drawBars() {
         for (int i = 0; i < numBars; i++) {
@@ -156,7 +156,7 @@ public void drawBars() {
     }
 
 
-
+```
 This is an image using a relative URL:
 
 ![An image](images/p8.png)
