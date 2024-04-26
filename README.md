@@ -93,8 +93,8 @@ This is an image using an absolute URL:
 ![A different image]![Screenshot 2024-04-26 023739](https://github.com/tuyi3008/MusicVisuals/assets/73605412/f74ae48f-4d96-42ef-8258-315d371a35b1)
 
 
-![A different image](![Screenshot 2024-04-26 023320](https://github.com/tuyi3008/MusicVisuals/assets/73605412/f5d4dbf9-bb88-415b-b485-166e2cc48751)
-)
+![A different image]![Screenshot 2024-04-26 024027](https://github.com/tuyi3008/MusicVisuals/assets/73605412/367bd9fe-9a49-4eb3-8643-08bc356bfb89)
+
 
 This is a youtube video:
 
