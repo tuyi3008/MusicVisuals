@@ -96,14 +96,48 @@ if (showCircles) {
 So is this without specifying the language:
 
 ```
-public void render()
-{
-	ui.noFill();
-	ui.stroke(255);
-	ui.rect(x, y, width, height);
-	ui.textAlign(PApplet.CENTER, PApplet.CENTER);
-	ui.text(text, x + width * 0.5f, y + height * 0.5f);
-}
+public void showGeometry() {
+        float centerX = width / 2;
+        float centerY = height / 2;
+
+        float amplitude = 20; // Amplitude for triangle size
+        float rotationSpeed = 0.01f; // Speed of rotation
+        float maxRotation = PI / 2; // Maximum rotation angle
+        float rotation = 0; // Initial rotation angle
+
+        TriangleColors = new int[numTriangle];
+
+        int spectrumSize = fft.specSize(); // Get size of spectrum data
+
+        float step = TWO_PI / numTriangle; // Angle step between shapes
+
+        for (int i = 0; i < numTriangle; i++) {
+            float angle = i * step;
+            float spectrumValue = fft.getBand(i % spectrumSize); // Get spectrum value for current band
+            float radius = spectrumValue * amplitude;
+
+            TriangleColors[i] = color(random(255), random(255), random(255));
+
+            // Calculate vertices of triangle
+            float x1 = centerX + cos(angle + rotation) * radius;
+            float y1 = centerY + sin(angle + rotation) * radius;
+
+            float x2 = centerX + cos(angle + rotation + TWO_PI / 3) * radius;
+            float y2 = centerY + sin(angle + rotation + TWO_PI / 3) * radius;
+
+            float x3 = centerX + cos(angle + rotation + 2 * TWO_PI / 3) * radius;
+            float y3 = centerY + sin(angle + rotation + 2 * TWO_PI / 3) * radius;
+
+            // Calculate shape color
+            // float hue = map(i, 0, numTriangle, 0, 255); // Use different hue values
+            // float saturation = map(spectrumValue, 0, 255, 50, 100); // Set saturation
+            // float brightness = map(spectrumValue, 0, 255, 20, 80); // Set brightness
+            // fill(hue, saturation, brightness);
+            fill(TriangleColors[i]);
+
+            // Draw triangle
+            triangle(x1, y1, x2, y2, x3, y3);
+        }
 ```
 
 This is an image using a relative URL:
