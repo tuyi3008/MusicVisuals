@@ -45,7 +45,7 @@ The code corresponds with the music by analyzing its audio spectrum in real-time
 
 # What I am most proud of in the assignment
 
-What I am most proud of in the assignment is the seamless integration of visual elements with the dynamics and mood of the chosen song. I take pride in how the visuals effectively capture the essence of the music, conveying its energy, tension, and excitement to the audience. Additionally, I am proud of the technical proficiency demonstrated in implementing audio-responsive features, such as adjusting the size and color of shapes based on the song's rhythm and emotion. This not only showcases my creativity but also highlights my ability to translate auditory experiences into captivating visual narratives. 
+What I am most proud of in this assignment is the synchronization between the visual elements and the music. Achieving this required a deep understanding of signal processing techniques, particularly the FFT algorithm, and creative programming to translate the audio data into visually engaging shapes and colors. I am proud of how the visualizations respond dynamically to changes in the music, capturing the essence of the sound and enhancing the overall listening experience. Additionally, I am pleased with the versatility of the program, allowing users to switch between different visualization modes seamlessly, adding to the interactivity and enjoyment of the application. Overall, I take pride in the combination of technical skill and creativity that went into creating a visually stunning and synchronized music visualization experience.
 
 
 # Markdown Tutorial
