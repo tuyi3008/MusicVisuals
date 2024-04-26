@@ -85,22 +85,27 @@ This is an image using an absolute URL:
 
 # Here are the mode 1 images
 
-![A different image]![Screenshot 2024-04-26 023302](https://github.com/tuyi3008/MusicVisuals/assets/73605412/7cc0c890-6d0d-42fb-b05e-b1a762da465a)
+![A different image]![Screenshot 2024-04-26 022821](https://github.com/tuyi3008/MusicVisuals/assets/73605412/a5f2973c-81b0-444c-8f76-c1d56bb0f6a5)
 
 
-![A different image]![Screenshot 2024-04-26 023231](https://github.com/tuyi3008/MusicVisuals/assets/73605412/40ce29b6-5e88-4cce-bb96-c9fe28b1765b)
 
-![A different image]![Screenshot 2024-04-26 023302](https://github.com/tuyi3008/MusicVisuals/assets/73605412/7cc0c890-6d0d-42fb-b05e-b1a762da465a)
-
-
-![A different image]![Screenshot 2024-04-26 023231](https://github.com/tuyi3008/MusicVisuals/assets/73605412/40ce29b6-5e88-4cce-bb96-c9fe28b1765b)
-
-![A different image]![Screenshot 2024-04-26 023302](https://github.com/tuyi3008/MusicVisuals/assets/73605412/7cc0c890-6d0d-42fb-b05e-b1a762da465a)
+![A different image]![Screenshot 2024-04-26 022845](https://github.com/tuyi3008/MusicVisuals/assets/73605412/bfa3ad69-9c51-4ce5-b0f3-24c3953395b6)
 
 
-![A different image]![Screenshot 2024-04-26 023231](https://github.com/tuyi3008/MusicVisuals/assets/73605412/40ce29b6-5e88-4cce-bb96-c9fe28b1765b)
+![A different image]![Screenshot 2024-04-26 023030](https://github.com/tuyi3008/MusicVisuals/assets/73605412/9c33d5f9-2e0e-4480-9a4c-03632adb717d)
 
-![A different image]![Screenshot 2024-04-26 023302](https://github.com/tuyi3008/MusicVisuals/assets/73605412/7cc0c890-6d0d-42fb-b05e-b1a762da465a)
+
+
+![A different image]![Screenshot 2024-04-26 023112](https://github.com/tuyi3008/MusicVisuals/assets/73605412/79c15cd6-b51d-4c9d-a06b-dbe94adf2b71)
+
+
+![A different image]![Screenshot 2024-04-26 023157](https://github.com/tuyi3008/MusicVisuals/assets/73605412/02774b4f-a0a4-4e55-9b26-e32fc0f77018)
+
+
+![A different image]![Screenshot 2024-04-26 023203](https://github.com/tuyi3008/MusicVisuals/assets/73605412/e78b7328-1037-4398-9b0c-cac889d67e4e)
+
+
+![A different image]
 
 
 ![A different image]![Screenshot 2024-04-26 023231](https://github.com/tuyi3008/MusicVisuals/assets/73605412/40ce29b6-5e88-4cce-bb96-c9fe28b1765b)
