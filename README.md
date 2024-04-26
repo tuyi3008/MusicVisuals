@@ -83,6 +83,9 @@ This is an image using a relative URL:
 
 This is an image using an absolute URL:
 
+# Here are the mode 3 images
+
+
 ![A different image](![Screenshot 2024-04-26 023320](https://github.com/tuyi3008/MusicVisuals/assets/73605412/f5d4dbf9-bb88-415b-b485-166e2cc48751)
 )
 
