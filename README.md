@@ -95,7 +95,7 @@ This is an image using an absolute URL:
 
 ![A different image]![Screenshot 2024-04-26 024027](https://github.com/tuyi3008/MusicVisuals/assets/73605412/367bd9fe-9a49-4eb3-8643-08bc356bfb89)
 
-![A different image]![Screenshot 2024-04-26 024027]![Screenshot 2024-04-26 024054](https://github.com/tuyi3008/MusicVisuals/assets/73605412/3ae8339d-8479-4345-8a6a-dcfe91359ab0)
+![A different image]![Screenshot 2024-04-26 024054](https://github.com/tuyi3008/MusicVisuals/assets/73605412/3ae8339d-8479-4345-8a6a-dcfe91359ab0)
 
 
 
