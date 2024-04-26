@@ -38,7 +38,7 @@ Overall, the visualization process transforms audio input into visually captivat
 
 # Code Correspondence with Music
 
-My code corresponds to the rhythm and emotion of the song through dynamic shapes, fast animation effects, and vibrant colors. For instance, I used the map() function to adjust the size of the images based on the song's rhythm, making them change with the music. I also employed color mapping to adjust the colors of the images according to the song's emotion, enhancing the visual experience. Overall, my design aims to align with the atmosphere and emotion of the song, creating a visually dynamic and tension-filled effect.
+The code corresponds with the music by analyzing its audio spectrum in real-time using the Fast Fourier Transform (FFT) algorithm. This algorithm breaks down the audio signal into its frequency components, allowing the program to extract information about the intensity of different frequency bands. The extracted data is then mapped to various visual elements, such as circles, bars, and triangles, which dynamically respond to changes in the music's rhythm, melody, and intensity. For example, the size and color of the shapes may vary based on the amplitude and frequency of the corresponding audio bands. As the music plays, the visual elements evolve and interact, creating a synchronized and immersive experience that enhances the listener's engagement with the music.
 
 
 # How it works
