@@ -83,6 +83,29 @@ This is an image using a relative URL:
 
 This is an image using an absolute URL:
 
+# Here are the mode 1 images
+
+![A different image]![Screenshot 2024-04-26 023302](https://github.com/tuyi3008/MusicVisuals/assets/73605412/7cc0c890-6d0d-42fb-b05e-b1a762da465a)
+
+
+![A different image]![Screenshot 2024-04-26 023231](https://github.com/tuyi3008/MusicVisuals/assets/73605412/40ce29b6-5e88-4cce-bb96-c9fe28b1765b)
+
+![A different image]![Screenshot 2024-04-26 023302](https://github.com/tuyi3008/MusicVisuals/assets/73605412/7cc0c890-6d0d-42fb-b05e-b1a762da465a)
+
+
+![A different image]![Screenshot 2024-04-26 023231](https://github.com/tuyi3008/MusicVisuals/assets/73605412/40ce29b6-5e88-4cce-bb96-c9fe28b1765b)
+
+![A different image]![Screenshot 2024-04-26 023302](https://github.com/tuyi3008/MusicVisuals/assets/73605412/7cc0c890-6d0d-42fb-b05e-b1a762da465a)
+
+
+![A different image]![Screenshot 2024-04-26 023231](https://github.com/tuyi3008/MusicVisuals/assets/73605412/40ce29b6-5e88-4cce-bb96-c9fe28b1765b)
+
+![A different image]![Screenshot 2024-04-26 023302](https://github.com/tuyi3008/MusicVisuals/assets/73605412/7cc0c890-6d0d-42fb-b05e-b1a762da465a)
+
+
+![A different image]![Screenshot 2024-04-26 023231](https://github.com/tuyi3008/MusicVisuals/assets/73605412/40ce29b6-5e88-4cce-bb96-c9fe28b1765b)
+
+
 
 # Here are the mode 2 images
 
