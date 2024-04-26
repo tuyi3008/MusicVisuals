@@ -63,7 +63,7 @@ What I am most proud of in this assignment is the synchronization between the vi
 
 This is a [hyperlink](http://bryanduggan.org)
 
-This is code:
+This is the visual 1(drawCircles) code:
 
 ```Java
 if (showCircles) {
