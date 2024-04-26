@@ -93,7 +93,7 @@ if (showCircles) {
         }
 ```
 
-So is this without specifying the language:
+This is the visual 3(showGeometry) code:
 
 ```
 public void showGeometry() {
