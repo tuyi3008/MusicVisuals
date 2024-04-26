@@ -83,7 +83,8 @@ This is an image using a relative URL:
 
 This is an image using an absolute URL:
 
-![A different image](https://bryanduggandotorg.files.wordpress.com/2019/02/infinite-forms-00045.png?w=595&h=&zoom=2)
+![A different image](![Screenshot 2024-04-26 023320](https://github.com/tuyi3008/MusicVisuals/assets/73605412/f5d4dbf9-bb88-415b-b485-166e2cc48751)
+)
 
 This is a youtube video:
 
